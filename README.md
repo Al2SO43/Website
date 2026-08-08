@@ -7,7 +7,7 @@
 
 ## 在线访问
 
-- **个人主页**: [https://al2so43.github.io/homepage](https://al2so43.github.io/homepage)
+- **个人主页**: [https://al2so43.github.io/Website](https://al2so43.github.io/Website)
 - **正式个人网站**: [https://al2so43.pages.dev](https://al2so43.pages.dev)
 - **Minecraft 文章专栏**: [https://al2so43-mc-text.pages.dev](https://al2so43-mc-text.pages.dev)
 
