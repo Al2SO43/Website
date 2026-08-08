@@ -1,4 +1,4 @@
-# Al2(SO4)3-硫酸铝 的个人主页
+# Al2(SO4)3-硫酸铝 的个人网站主页
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://Al2SO43.github.io)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
